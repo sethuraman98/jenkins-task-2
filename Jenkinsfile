@@ -53,7 +53,7 @@ Build URL:
 ${env.BUILD_URL}
 
 Build Console Output:
-${BUILD_LOG, maxLines=100}
+\${BUILD_LOG, maxLines=100}
 
 Regards,
 Jenkins CI Server
